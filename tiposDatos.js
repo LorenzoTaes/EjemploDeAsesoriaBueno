@@ -28,3 +28,5 @@ var persona = {
     edad: 15,
     lugarNacimiento: "Mexico"
 }
+
+//Este es un ejemplo de cambio de asesoría 2
